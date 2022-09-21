@@ -1,0 +1,28 @@
+<div class="form-wrapper" style="margin-bottom: 70px;">
+<form [formGroup]="form" (ngSubmit)=" saveUser()">
+        <h1>הרשמה</h1>
+    <mat-form-field appearance="fill">
+        <mat-label> שם משתמש</mat-label>
+        <input autocomplete="autocomplete" formControlName="name" type="text" matInput placeholder="name" required/>
+        <mat-error *ngIf="form.get('name')?.hasError('required')"> חובה להזין שם.</mat-error>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+        <mat-label> מייל </mat-label>
+        <input autocomplete="autocomplete" formControlName="email" type="email" matInput placeholder="email" pattern="[^@]+@[^@]+\.[a-zA-Z]{2,}"  required />
+        <mat-error *ngIf="(form.get('email')?.dirty || form.get('email')?.touched)"> מייל לא תקין</mat-error>
+        <mat-error *ngIf="form.get('password')?.hasError('required')"> חובה להזין מייל.</mat-error>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+        <mat-label> סיסמא</mat-label>
+        <input autocomplete="autocomplete" formControlName="password" [type]="hide ? 'password' : 'text'"  pattern='(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[$@$!%*?&])[A-Za-z\d$@$!%*?&].{7,}' matInput placeholder="password"  required/>
+        <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+            <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+          </button>
+          <mat-error *ngIf="form.get('password')?.hasError('pattern')"> אורך הסיסמא 8 תוים, חייב להכיל אות גדולה, קטנה, מספרים ותו מיוחד באנגלית בלבד</mat-error>
+        <mat-error *ngIf="form.get('password')?.hasError('required')"> חובה להזין סיסמא.</mat-error>
+    </mat-form-field>
+    <section class="example-section">
+            <mat-checkbox [checked]="true" class="example-margin" formControlName="advertisements" > פרסומות</mat-checkbox>
+    </section><br/><br/>
+<button class="btn-blue" type="submit" [disabled]="!form.valid">שמור</button>
+</form>

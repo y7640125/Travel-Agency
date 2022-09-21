@@ -1,0 +1,31 @@
+<form class="form-wrapper-modal " [formGroup]="form" #formM (ngSubmit)="sendMessage()">
+    <h1>שרות לקוחות</h1>
+    <mat-form-field appearance="fill">
+        <mat-label> שם</mat-label>
+        <input autocomplete="autocomplete" formControlName="name" type="text" matInput placeholder="name" required/>
+        <mat-error *ngIf="form.get('name')?.hasError('required')"> חובה להזין שם.</mat-error>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+        <mat-label> מייל </mat-label>
+        <input autocomplete="autocomplete" formControlName="email" type="email" matInput placeholder="email" pattern="[^@]+@[^@]+\.[a-zA-Z]{2,}"  required />
+        <mat-error *ngIf="(form.get('email')?.dirty || form.get('email')?.touched)"> מייל לא תקין</mat-error>
+        <mat-error *ngIf="form.get('password')?.hasError('required')"> חובה להזין מייל.</mat-error>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+        <mat-label>בחר נושא </mat-label>
+        <mat-select formControlName="subject" placeholder="בחר נושא" aria-label="נושא">
+                <mat-option value="1" >בחר נושא</mat-option>
+                <mat-option value="2">רכישת כרטיסי טיסה</mat-option>
+                <mat-option value="3">ברור טיסות נוספות</mat-option>
+                <mat-option value="4">תקלה באתר</mat-option>
+                <mat-option value="5">אחר</mat-option>
+        </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width" appearance="fill">
+        <mat-label> הודעה</mat-label>
+        <textarea matInput rows="4" autocomplete="autocomplete" type="text" formControlName="message1" required></textarea>
+    </mat-form-field>
+
+    <button class="btn-blue" type="submit" [disabled]="!form.valid">שלח הודעה</button>
+</form>

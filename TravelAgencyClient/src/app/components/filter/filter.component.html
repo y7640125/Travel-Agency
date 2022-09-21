@@ -1,0 +1,21 @@
+<div class=" p-5 text-center background">
+    <h1>חפשו את יעד החלומות שלכם</h1>
+    <form class="row gx-5" (ngSubmit)="filterFlights()" [formGroup]="form" >
+        <div class="form-group col">
+        <select  class="form-select form-select-lg mb-2 hight" formControlName="destination" placeholder="בחר יעד" >
+            <option [value]="c.countryId" *ngFor="let c of countries"> {{c.countryName}}</option>
+          </select>
+        </div>
+        <div class="form-group col">
+         <input type="date" class="form-control p-3 red" placeholder="תאריך יציאה" formControlName="departureDate" >
+        </div>
+        <div class="form-group col">
+         <input type="date" class="form-control p-3 red" placeholder="תאריך חזרה" formControlName="returnDate" >
+        </div>
+        <div class="form-group col">
+         <button type="submit" class="btn btn-primary p-3 blue">חפש</button>
+        </div>
+     </form>         
+</div>
+<app-flight-list [flights]="getAllFlights()"></app-flight-list>
+

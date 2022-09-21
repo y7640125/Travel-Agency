@@ -1,0 +1,148 @@
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\BL.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\DAL.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\DTO.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\BL.pdb
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\TravelAgency\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\TravelAgency\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.StaticWebAssets.xml
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache

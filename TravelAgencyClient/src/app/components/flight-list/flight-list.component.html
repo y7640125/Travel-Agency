@@ -1,0 +1,13 @@
+
+<div class="flights hover-zoom" >
+  <div *ngFor="let f of flights" class="image" style='background-image: url("{{f.image}}");' appShowDetails>
+    <div class="background">
+      <h1>{{f.countryId}}</h1>
+      <h2>{{f.airlineId}}</h2>
+      <h2 class="show">{{f.price | currency :'ILS'}}<br />
+        {{f.departureDate}}-{{f.returnDate}}</h2>
+      <button (click)="booking(f)" >הזמן</button>
+      <div class="stop text-center" *ngIf="f.numSeats==f.numPassengers">אזלו הכרטיסים</div>
+    </div>
+  </div>
+</div>

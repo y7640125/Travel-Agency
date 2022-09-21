@@ -1,0 +1,27 @@
+
+<div class="form-wrapper" style="margin-bottom: 70px;">
+    <form [formGroup]="form" (ngSubmit)="login()" >
+        <h1>התחברות</h1>
+        <mat-form-field appearance="fill">
+            <mat-label>שם משתמש/ מייל</mat-label>
+            <input autocomplete="autocomplete" formControlName="userName" type="email" matInput placeholder="User Name" />
+            <mat-error *ngIf="form.get('userName')?.hasError('required')"> חובה להזין שם משתמש/ מייל.</mat-error>
+        </mat-form-field>
+        <mat-form-field appearance="fill">
+            <mat-label>סיסמא</mat-label>
+            <input autocomplete="autocomplete" formControlName="password" [type]="hide ? 'password' : 'text'" matInput placeholder="Password" />
+            <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+                <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+              </button>
+            <mat-error *ngIf="form.get('password')?.hasError('required')"> חובה להזין סיסמא.</mat-error>
+            <mat-error *ngIf="form.get('password')?.hasError('pattern')"> אורך הסיסמא 8 תוים, חייב להכיל אות גדולה, קטנה, מספרים ותו מיוחד באנגלית בלבד</mat-error>
+        </mat-form-field>
+        <br>
+        <div class="scale-mobile">
+            <re-captcha formControlName="recaptchaReactive" required siteKey="6LeYtv8ZAAAAAAA8kjF7qI0I_XX4JDQhoK9ZEAf5"></re-captcha>
+        </div> <br>
+        <button class="btn-blue" type="submit " [disabled]="!form.valid ">כניסה</button>
+        <br>
+    </form>
+    <div class="error-div">{{message}}</div>
+</div>

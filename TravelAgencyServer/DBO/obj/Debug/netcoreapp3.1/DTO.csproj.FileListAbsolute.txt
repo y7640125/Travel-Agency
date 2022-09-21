@@ -1,0 +1,26 @@
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\netcoreapp3.1\DAL.dll
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\אלכסנדר ס. איזנשטט\Documents\Yael\TravelAgencyServer\TravelAgencyServer\DBO\obj\Debug\netcoreapp3.1\DTO.pdb

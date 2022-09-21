@@ -1,0 +1,15 @@
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\net5.0\DTO.deps.json
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\net5.0\DTO.dll
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\net5.0\ref\DTO.dll
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\net5.0\DTO.pdb
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\net5.0\DAL.dll
+C:\TravelAgency\TravelAgencyServer\DBO\bin\Debug\net5.0\DAL.pdb
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\net5.0\DTO.csproj.CopyComplete
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\net5.0\DTO.dll
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\net5.0\ref\DTO.dll
+C:\TravelAgency\TravelAgencyServer\DBO\obj\Debug\net5.0\DTO.pdb
